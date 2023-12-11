@@ -16,7 +16,7 @@ app:
     # q: what's the overall limit?
     # q: do we support fractions?
     cpu: 1
-  version: "5eab580f-59af-4596-863a-9d55a37f073c"
+  version: "7f3f92e9-520b-4f6e-a161-d0b3c3554958"
 # probes
 # dynamic scaling
 # scaling to 0
