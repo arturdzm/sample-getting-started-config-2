@@ -3,6 +3,8 @@ app:
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
+  services:
+    - crn: 'crn:v1:staging:public:mqcloud:eu-de:a/aa9cfb05a0941e285ba634bef0a58eda:0652c728-ce10-4f77-87a3-c960bd4bb04f::'
   instances:
     # q: consider availability zones? 
 
