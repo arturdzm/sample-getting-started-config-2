@@ -5,7 +5,9 @@ app:
   # number of instances
   instances:
     # q: consider availability zones? 
-
+  services:
+    - crn: 'crn:v1:staging:public:mqcloud:eu-de:a/aa9cfb05a0941e285ba634bef0a58eda:0652c728-ce10-4f77-87a3-c960bd4bb04f::'
+    
     # min number of instances. can be 0 for scale to 0. default to 1.
     min: 1
     # max number of instances. defaults to 1 if min == 0, otherwise defaults to min
