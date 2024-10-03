@@ -2,7 +2,7 @@ version: 1.0
 app:
   instances:
     min: 1
-    max: 2  
+    max: 3  
   resources:
     cpu: 1
   version: b7a0a058-4240-4a95-9e58-c5371aaad2b6
