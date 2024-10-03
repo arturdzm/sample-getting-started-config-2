@@ -5,4 +5,4 @@ app:
     max: 2  
   resources:
     cpu: 1
-  version: af4effa7-2b12-4047-8fda-4f4fd28bde6d
+  version: b7a0a058-4240-4a95-9e58-c5371aaad2b6
