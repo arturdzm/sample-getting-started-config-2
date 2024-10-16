@@ -6,6 +6,3 @@ app:
   resources:
     cpu: 1
   version: b7a0a058-4240-4a95-9e58-c5371aaad2b6
-  services:
-    - crn: 'crn:v1:staging:public:mqcloud:eu-de:a/aa9cfb05a0941e285ba634bef0a58eda:0652c728-ce10-4f77-87a3-c960bd4bb04f::'
-    - crn: 'crn:v1:staging:public:dashdb-for-transactions:us-east:a/13545c4f8000f3f07f95075dbe5977ba:9a62a54b-347e-48fb-b9b8-7f245d4a4ce4::'
